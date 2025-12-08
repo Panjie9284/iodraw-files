@@ -1,1 +1,75 @@
-<mxGraphModel dx="984" dy="783" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0"><root><mxCell id="0"/><mxCell id="1" parent="0"/><mxCell id="rLhrCOUg51i8eZgk0CVq-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="rLhrCOUg51i8eZgk0CVq-1" target="rLhrCOUg51i8eZgk0CVq-4" edge="1"><mxGeometry relative="1" as="geometry"/></mxCell><mxCell id="rLhrCOUg51i8eZgk0CVq-19" value="驱动信号" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="rLhrCOUg51i8eZgk0CVq-6" vertex="1" connectable="0"><mxGeometry x="-0.227" y="-3" relative="1" as="geometry"><mxPoint x="-5.14" y="3" as="offset"/></mxGeometry></mxCell><mxCell id="rLhrCOUg51i8eZgk0CVq-18" value="传输需要&lt;br&gt;发送的信息" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" parent="1" source="rLhrCOUg51i8eZgk0CVq-1" target="rLhrCOUg51i8eZgk0CVq-2" edge="1"><mxGeometry x="-0.0006" y="20" relative="1" as="geometry"><Array as="points"><mxPoint x="730" y="310"/><mxPoint x="730" y="310"/></Array><mxPoint x="20" y="20" as="offset"/></mxGeometry></mxCell><mxCell id="rLhrCOUg51i8eZgk0CVq-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" parent="1" source="rLhrCOUg51i8eZgk0CVq-1" target="rLhrCOUg51i8eZgk0CVq-5" edge="1"><mxGeometry relative="1" as="geometry"/></mxCell><mxCell id="rLhrCOUg51i8eZgk0CVq-23" value="触发信号" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="rLhrCOUg51i8eZgk0CVq-21" vertex="1" connectable="0"><mxGeometry x="-0.1702" y="-1" relative="1" as="geometry"><mxPoint y="6.86" as="offset"/></mxGeometry></mxCell><mxCell id="rLhrCOUg51i8eZgk0CVq-1" value="PIC单片机主控板" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1"><mxGeometry x="640" y="360" width="120" height="60" as="geometry"/></mxCell><mxCell id="rLhrCOUg51i8eZgk0CVq-17" value="接收另外一辆车&lt;br&gt;发送的信息" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" parent="1" source="rLhrCOUg51i8eZgk0CVq-2" target="rLhrCOUg51i8eZgk0CVq-1" edge="1"><mxGeometry x="0.0006" y="-20" relative="1" as="geometry"><Array as="points"><mxPoint x="670" y="310"/><mxPoint x="670" y="310"/></Array><mxPoint x="20" y="-20" as="offset"/></mxGeometry></mxCell><mxCell id="rLhrCOUg51i8eZgk0CVq-2" value="HC05蓝牙通信模块" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1"><mxGeometry x="640" y="200" width="120" height="60" as="geometry"/></mxCell><mxCell id="rLhrCOUg51i8eZgk0CVq-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="rLhrCOUg51i8eZgk0CVq-3" target="rLhrCOUg51i8eZgk0CVq-1" edge="1"><mxGeometry relative="1" as="geometry"/></mxCell><mxCell id="rLhrCOUg51i8eZgk0CVq-20" value="识别信号" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="rLhrCOUg51i8eZgk0CVq-11" vertex="1" connectable="0"><mxGeometry x="-0.1774" relative="1" as="geometry"><mxPoint x="-6.86" as="offset"/></mxGeometry></mxCell><mxCell id="rLhrCOUg51i8eZgk0CVq-3" value="灰度循迹模块" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1"><mxGeometry x="840" y="360" width="120" height="60" as="geometry"/></mxCell><mxCell id="rLhrCOUg51i8eZgk0CVq-4" value="电机驱动模块" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1"><mxGeometry x="430" y="360" width="120" height="60" as="geometry"/></mxCell><mxCell id="rLhrCOUg51i8eZgk0CVq-22" value="获取&lt;br&gt;反馈距离" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" parent="1" source="rLhrCOUg51i8eZgk0CVq-5" target="rLhrCOUg51i8eZgk0CVq-1" edge="1"><mxGeometry relative="1" as="geometry"><Array as="points"><mxPoint x="730" y="460"/><mxPoint x="730" y="460"/></Array></mxGeometry></mxCell><mxCell id="rLhrCOUg51i8eZgk0CVq-5" value="超声波跟随模块" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1"><mxGeometry x="640" y="500" width="120" height="60" as="geometry"/></mxCell></root></mxGraphModel>
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0" version="24.7.17">
+  <diagram id="HfhFNQPLD6Xg4DXZSE5g" name="第 1 页">
+    <mxGraphModel dx="746" dy="1134" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="rLhrCOUg51i8eZgk0CVq-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="rLhrCOUg51i8eZgk0CVq-1" target="rLhrCOUg51i8eZgk0CVq-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rLhrCOUg51i8eZgk0CVq-19" value="驱动信号" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="rLhrCOUg51i8eZgk0CVq-6" vertex="1" connectable="0">
+          <mxGeometry x="-0.227" y="-3" relative="1" as="geometry">
+            <mxPoint x="-5.14" y="3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rLhrCOUg51i8eZgk0CVq-18" value="传输需要&lt;br&gt;发送的信息" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" parent="1" source="rLhrCOUg51i8eZgk0CVq-1" target="rLhrCOUg51i8eZgk0CVq-2" edge="1">
+          <mxGeometry x="-0.0006" y="20" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="730" y="310" />
+              <mxPoint x="730" y="310" />
+            </Array>
+            <mxPoint x="20" y="20" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rLhrCOUg51i8eZgk0CVq-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" parent="1" source="rLhrCOUg51i8eZgk0CVq-1" target="rLhrCOUg51i8eZgk0CVq-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rLhrCOUg51i8eZgk0CVq-23" value="触发信号" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="rLhrCOUg51i8eZgk0CVq-21" vertex="1" connectable="0">
+          <mxGeometry x="-0.1702" y="-1" relative="1" as="geometry">
+            <mxPoint y="6.86" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rLhrCOUg51i8eZgk0CVq-1" value="PIC单片机主控板" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="640" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rLhrCOUg51i8eZgk0CVq-17" value="接收另外一辆车&lt;br&gt;发送的信息" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" parent="1" source="rLhrCOUg51i8eZgk0CVq-2" target="rLhrCOUg51i8eZgk0CVq-1" edge="1">
+          <mxGeometry x="0.0006" y="-20" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="670" y="310" />
+              <mxPoint x="670" y="310" />
+            </Array>
+            <mxPoint x="20" y="-20" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rLhrCOUg51i8eZgk0CVq-2" value="HC05蓝牙通信模块" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="640" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rLhrCOUg51i8eZgk0CVq-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="rLhrCOUg51i8eZgk0CVq-3" target="rLhrCOUg51i8eZgk0CVq-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rLhrCOUg51i8eZgk0CVq-20" value="识别信号" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="rLhrCOUg51i8eZgk0CVq-11" vertex="1" connectable="0">
+          <mxGeometry x="-0.1774" relative="1" as="geometry">
+            <mxPoint x="-6.86" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rLhrCOUg51i8eZgk0CVq-3" value="灰度循迹模块" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="840" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rLhrCOUg51i8eZgk0CVq-4" value="电机驱动模块" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="430" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rLhrCOUg51i8eZgk0CVq-22" value="获取&lt;br&gt;反馈距离" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" parent="1" source="rLhrCOUg51i8eZgk0CVq-5" target="rLhrCOUg51i8eZgk0CVq-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="730" y="460" />
+              <mxPoint x="730" y="460" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rLhrCOUg51i8eZgk0CVq-5" value="超声波跟随模块" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="640" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
