@@ -8,7 +8,7 @@
           <mxGeometry x="460" y="90" width="170" height="230" as="geometry" />
         </mxCell>
         <mxCell id="Tat67W1qnbCKW4MGSX4I-9" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#7EA6E0;strokeColor=#6c8ebf;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="250" y="90" width="160" height="230" as="geometry" />
+          <mxGeometry x="260" y="90" width="150" height="230" as="geometry" />
         </mxCell>
         <mxCell id="Tat67W1qnbCKW4MGSX4I-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFE599;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="50" y="90" width="140" height="300" as="geometry" />
@@ -48,6 +48,9 @@
         </mxCell>
         <mxCell id="Tat67W1qnbCKW4MGSX4I-16" value="旋转分量" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="480" y="185" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Tat67W1qnbCKW4MGSX4I-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.007;entryY=0.865;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Tat67W1qnbCKW4MGSX4I-12" target="Tat67W1qnbCKW4MGSX4I-9">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
