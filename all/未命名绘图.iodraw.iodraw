@@ -16,11 +16,6 @@
         <mxCell id="Tat67W1qnbCKW4MGSX4I-1" value="位姿流&lt;div&gt;（t,x,y,z,qx,qy,qz.qw）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="60" y="110" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Tat67W1qnbCKW4MGSX4I-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Tat67W1qnbCKW4MGSX4I-2">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="220" y="300" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="Tat67W1qnbCKW4MGSX4I-2" value="深度流&lt;div&gt;（t,H,W）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="60" y="270" width="120" height="60" as="geometry" />
         </mxCell>
@@ -41,6 +36,15 @@
         </mxCell>
         <mxCell id="Tat67W1qnbCKW4MGSX4I-12" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;Mapping&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="305" y="280" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Tat67W1qnbCKW4MGSX4I-14" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#7EA6E0;strokeColor=#6c8ebf;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="260" y="100" width="170" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="Tat67W1qnbCKW4MGSX4I-15" value="运动导数提取&lt;div&gt;获得相机瞬时速度&lt;/div&gt;&lt;div&gt;V(线速度)、Ω(角速度)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#DAE8FC;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="280" y="115" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Tat67W1qnbCKW4MGSX4I-16" value="像素坐标映射到归一坐标系构建Ω算子&lt;div&gt;（N,2,3）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#DAE8FC;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="280" y="195" width="130" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
