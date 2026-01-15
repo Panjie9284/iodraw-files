@@ -23,8 +23,7 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="480" y="145" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="180" y="315" />
-              <mxPoint x="410" y="315" />
+              <mxPoint x="410" y="305" />
               <mxPoint x="410" y="145" />
             </Array>
           </mxGeometry>
@@ -39,7 +38,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Tat67W1qnbCKW4MGSX4I-5" value="相机内参&lt;br&gt;&lt;div&gt;（f,c）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="60" y="190" width="120" height="60" as="geometry" />
+          <mxGeometry x="60" y="195" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Tat67W1qnbCKW4MGSX4I-7" value="运动导数提取&lt;div&gt;获得相机瞬时速度&lt;/div&gt;&lt;div&gt;V(线速度)、Ω(角速度)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#DAE8FC;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="230" y="105" width="130" height="70" as="geometry" />
@@ -48,7 +47,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Tat67W1qnbCKW4MGSX4I-10" value="像素坐标映射到归一坐标系构建Ω算子&lt;div&gt;（N,2,3）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#DAE8FC;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="230" y="185" width="130" height="70" as="geometry" />
+          <mxGeometry x="230" y="190" width="130" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Tat67W1qnbCKW4MGSX4I-12" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;Mapping&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="265" y="260" width="60" height="30" as="geometry" />
