@@ -24,6 +24,9 @@
         <mxCell id="Tat67W1qnbCKW4MGSX4I-5" value="相机内参&lt;br&gt;&lt;div&gt;（f,c）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="60" y="190" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="Tat67W1qnbCKW4MGSX4I-7" value="运动导数提取&lt;div&gt;获得相机瞬时速度&lt;/div&gt;&lt;div&gt;V(线速度)、Ω(角速度)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
