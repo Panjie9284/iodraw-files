@@ -31,6 +31,9 @@
         <mxCell id="Tat67W1qnbCKW4MGSX4I-7" value="运动导数提取&lt;div&gt;获得相机瞬时速度&lt;/div&gt;&lt;div&gt;V(线速度)、Ω(角速度)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#DAE8FC;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="270" y="105" width="130" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="Tat67W1qnbCKW4MGSX4I-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Tat67W1qnbCKW4MGSX4I-10" target="Tat67W1qnbCKW4MGSX4I-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Tat67W1qnbCKW4MGSX4I-10" value="像素坐标映射到归一坐标系构建Ω算子&lt;div&gt;（N,2,3）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#DAE8FC;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="270" y="185" width="130" height="70" as="geometry" />
         </mxCell>
@@ -43,7 +46,7 @@
         <mxCell id="Tat67W1qnbCKW4MGSX4I-15" value="平移分量" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="480" y="105" width="130" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="Tat67W1qnbCKW4MGSX4I-16" value="像素坐标映射到归一坐标系构建Ω算子&lt;div&gt;（N,2,3）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="Tat67W1qnbCKW4MGSX4I-16" value="旋转分量" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="480" y="185" width="130" height="70" as="geometry" />
         </mxCell>
       </root>
