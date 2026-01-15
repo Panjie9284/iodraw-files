@@ -37,7 +37,7 @@
         <mxCell id="Tat67W1qnbCKW4MGSX4I-12" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;Mapping&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="305" y="280" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Tat67W1qnbCKW4MGSX4I-14" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="Tat67W1qnbCKW4MGSX4I-14" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#B9E0A5;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="460" y="90" width="170" height="230" as="geometry" />
         </mxCell>
         <mxCell id="Tat67W1qnbCKW4MGSX4I-15" value="运动导数提取&lt;div&gt;获得相机瞬时速度&lt;/div&gt;&lt;div&gt;V(线速度)、Ω(角速度)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
