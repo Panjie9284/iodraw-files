@@ -55,7 +55,7 @@
           <mxGeometry x="250" y="220" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZMKGEbSbhJhfQjJGK9VY-52" value="检查迭代次数" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="170" y="740" width="120" height="60" as="geometry" />
+          <mxGeometry x="340" y="730" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
