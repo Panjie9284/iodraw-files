@@ -7,7 +7,7 @@
         <mxCell id="tWwYl6sAvLtclhRLyYWx-0" value="事件体输入" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="80" y="120" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ZMKGEbSbhJhfQjJGK9VY-0" value="初始化光流" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="ZMKGEbSbhJhfQjJGK9VY-0" value="初始化光流" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="80" y="220" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
