@@ -39,6 +39,9 @@
         <mxCell id="ZMKGEbSbhJhfQjJGK9VY-4" value="相关性计算" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="430" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="ZMKGEbSbhJhfQjJGK9VY-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ZMKGEbSbhJhfQjJGK9VY-5" target="ZMKGEbSbhJhfQjJGK9VY-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ZMKGEbSbhJhfQjJGK9VY-5" value="上下文网络" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="530" width="120" height="60" as="geometry" />
         </mxCell>
@@ -50,6 +53,9 @@
         </mxCell>
         <mxCell id="ZMKGEbSbhJhfQjJGK9VY-7" value="迭代光流更新" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="730" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZMKGEbSbhJhfQjJGK9VY-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ZMKGEbSbhJhfQjJGK9VY-8" target="ZMKGEbSbhJhfQjJGK9VY-7">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZMKGEbSbhJhfQjJGK9VY-8" value="初始化光流" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="630" width="120" height="60" as="geometry" />
@@ -63,7 +69,7 @@
         <mxCell id="ZMKGEbSbhJhfQjJGK9VY-52" value="检查迭代次数" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="340" y="730" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ZMKGEbSbhJhfQjJGK9VY-54" value="迭代光流更新" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="ZMKGEbSbhJhfQjJGK9VY-54" value="上采样光流" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="830" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
