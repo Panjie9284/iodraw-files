@@ -13,7 +13,7 @@
         <mxCell id="ZMKGEbSbhJhfQjJGK9VY-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ZMKGEbSbhJhfQjJGK9VY-0" target="ZMKGEbSbhJhfQjJGK9VY-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ZMKGEbSbhJhfQjJGK9VY-0" value="初始化光流" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="ZMKGEbSbhJhfQjJGK9VY-0" value="初始化光流" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="80" y="220" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZMKGEbSbhJhfQjJGK9VY-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ZMKGEbSbhJhfQjJGK9VY-1" target="ZMKGEbSbhJhfQjJGK9VY-0">
@@ -22,7 +22,7 @@
         <mxCell id="ZMKGEbSbhJhfQjJGK9VY-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ZMKGEbSbhJhfQjJGK9VY-1" target="ZMKGEbSbhJhfQjJGK9VY-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ZMKGEbSbhJhfQjJGK9VY-1" value="迭代去模糊" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="ZMKGEbSbhJhfQjJGK9VY-1" value="迭代去模糊" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="250" y="220" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZMKGEbSbhJhfQjJGK9VY-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ZMKGEbSbhJhfQjJGK9VY-2" target="ZMKGEbSbhJhfQjJGK9VY-4">
@@ -37,7 +37,7 @@
         <mxCell id="ZMKGEbSbhJhfQjJGK9VY-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ZMKGEbSbhJhfQjJGK9VY-3" target="ZMKGEbSbhJhfQjJGK9VY-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ZMKGEbSbhJhfQjJGK9VY-3" value="计算增量光流" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="ZMKGEbSbhJhfQjJGK9VY-3" value="计算增量光流" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="250" y="320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZMKGEbSbhJhfQjJGK9VY-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ZMKGEbSbhJhfQjJGK9VY-4" target="ZMKGEbSbhJhfQjJGK9VY-6">
