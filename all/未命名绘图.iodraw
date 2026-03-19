@@ -45,7 +45,7 @@
         <mxCell id="ZMKGEbSbhJhfQjJGK9VY-7" value="检查迭代次数" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="490" y="500" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ZMKGEbSbhJhfQjJGK9VY-8" value="输出总光流" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="ZMKGEbSbhJhfQjJGK9VY-8" value="初始化光流" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="630" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZMKGEbSbhJhfQjJGK9VY-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ZMKGEbSbhJhfQjJGK9VY-45" target="ZMKGEbSbhJhfQjJGK9VY-3">
