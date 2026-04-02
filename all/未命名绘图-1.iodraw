@@ -82,8 +82,8 @@
         <mxCell id="GRiUfgNU-D0BLq3DBUHZ-14" value="更新光流" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="180" y="920" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="GRiUfgNU-D0BLq3DBUHZ-17" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="90" y="570" width="120" height="60" as="geometry" />
+        <mxCell id="GRiUfgNU-D0BLq3DBUHZ-17" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="90" y="570" width="320" height="350" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
