@@ -66,8 +66,8 @@
         <mxCell id="GRiUfgNU-D0BLq3DBUHZ-8" value="更新隐状态" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="180" y="710" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="GRiUfgNU-D0BLq3DBUHZ-11" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="180" y="850" width="120" height="60" as="geometry" />
+        <mxCell id="GRiUfgNU-D0BLq3DBUHZ-11" value="预测光流" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="180" y="810" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
