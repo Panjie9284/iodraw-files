@@ -54,11 +54,14 @@
         <mxCell id="GRiUfgNU-D0BLq3DBUHZ-4" value="运动特征&lt;div&gt;motion_feature&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="100" y="590" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="GRiUfgNU-D0BLq3DBUHZ-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="GRiUfgNU-D0BLq3DBUHZ-7" target="GRiUfgNU-D0BLq3DBUHZ-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="GRiUfgNU-D0BLq3DBUHZ-7" value="&lt;div&gt;网络记忆&lt;/div&gt;hidden_state" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="260" y="590" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="GRiUfgNU-D0BLq3DBUHZ-8" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="100" y="730" width="120" height="60" as="geometry" />
+        <mxCell id="GRiUfgNU-D0BLq3DBUHZ-8" value="更新网络记忆" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="180" y="710" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
