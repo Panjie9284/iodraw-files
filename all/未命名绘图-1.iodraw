@@ -51,6 +51,9 @@
         <mxCell id="GRiUfgNU-D0BLq3DBUHZ-4" value="运动特征" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="100" y="590" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="GRiUfgNU-D0BLq3DBUHZ-7" value="运动特征" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="110" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
