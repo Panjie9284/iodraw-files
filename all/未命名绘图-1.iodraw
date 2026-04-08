@@ -90,45 +90,6 @@
         <mxCell id="GRiUfgNU-D0BLq3DBUHZ-14" value="更新光流" style="whiteSpace=wrap;html=1;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="379.90999999999997" y="910" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="GRiUfgNU-D0BLq3DBUHZ-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="GRiUfgNU-D0BLq3DBUHZ-22" target="GRiUfgNU-D0BLq3DBUHZ-25" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="GRiUfgNU-D0BLq3DBUHZ-22" value="图像输入I" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="690" y="110" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="GRiUfgNU-D0BLq3DBUHZ-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="GRiUfgNU-D0BLq3DBUHZ-25" target="GRiUfgNU-D0BLq3DBUHZ-27" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="GRiUfgNU-D0BLq3DBUHZ-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="GRiUfgNU-D0BLq3DBUHZ-25" target="GRiUfgNU-D0BLq3DBUHZ-29" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="GRiUfgNU-D0BLq3DBUHZ-25" value="特征提取Fevent&lt;div&gt;下采样&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="690" y="210" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="GRiUfgNU-D0BLq3DBUHZ-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="GRiUfgNU-D0BLq3DBUHZ-27" target="GRiUfgNU-D0BLq3DBUHZ-30" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="GRiUfgNU-D0BLq3DBUHZ-27" value="&lt;div&gt;前一帧的特征&lt;/div&gt;Fimage1" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="610" y="320" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="GRiUfgNU-D0BLq3DBUHZ-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="GRiUfgNU-D0BLq3DBUHZ-29" target="GRiUfgNU-D0BLq3DBUHZ-30" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="GRiUfgNU-D0BLq3DBUHZ-29" value="&lt;div&gt;后一帧的特征&lt;/div&gt;Fimage1" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="770" y="320" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="GRiUfgNU-D0BLq3DBUHZ-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="440" y="545" as="targetPoint" />
-            <mxPoint x="769.91" y="510.0000000000001" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="769.91" y="545" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="GRiUfgNU-D0BLq3DBUHZ-30" value="计算出一个image&lt;div&gt;cost volume&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="690" y="450" width="120" height="60" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
