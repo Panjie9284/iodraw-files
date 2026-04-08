@@ -28,7 +28,7 @@
             <mxPoint x="100" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZMKGEbSbhJhfQjJGK9VY-2" value="特征提取Fevent&lt;div&gt;下采样&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="ZMKGEbSbhJhfQjJGK9VY-2" value="特征提取Fevent&lt;div&gt;下采样&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="40" y="180" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GRiUfgNU-D0BLq3DBUHZ-0" value="预测光流" style="whiteSpace=wrap;html=1;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
@@ -59,7 +59,7 @@
             <mxPoint x="329.90999999999985" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ET6Ii6RBAtkVtAINeOt0-14" value="特征提取Fevent&lt;div&gt;下采样&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="ET6Ii6RBAtkVtAINeOt0-14" value="特征提取Fevent&lt;div&gt;下采样&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="269.91" y="180" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ET6Ii6RBAtkVtAINeOt0-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ET6Ii6RBAtkVtAINeOt0-20" target="ET6Ii6RBAtkVtAINeOt0-23">
