@@ -65,15 +65,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ET6Ii6RBAtkVtAINeOt0-12" value="事件体输入E" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="490" y="100" width="120" height="60" as="geometry" />
+          <mxGeometry x="499.91" y="100" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ET6Ii6RBAtkVtAINeOt0-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="ET6Ii6RBAtkVtAINeOt0-14">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="550" y="280" as="sourcePoint" />
-          </mxGeometry>
+        <mxCell id="ET6Ii6RBAtkVtAINeOt0-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ET6Ii6RBAtkVtAINeOt0-14" target="Mllr8WHPQDzDSk8AXF9w-2">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ET6Ii6RBAtkVtAINeOt0-14" value="特征提取Fevent&lt;div&gt;下采样&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="490" y="200" width="120" height="60" as="geometry" />
+          <mxGeometry x="499.91" y="200" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
