@@ -62,12 +62,6 @@
         <mxCell id="ET6Ii6RBAtkVtAINeOt0-14" value="特征提取Fevent&lt;div&gt;下采样&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="269.91" y="180" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ET6Ii6RBAtkVtAINeOt0-18" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="389.91" y="110" as="sourcePoint" />
-            <mxPoint x="500" y="110" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="ET6Ii6RBAtkVtAINeOt0-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ET6Ii6RBAtkVtAINeOt0-20" target="ET6Ii6RBAtkVtAINeOt0-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -89,6 +83,12 @@
         </mxCell>
         <mxCell id="ET6Ii6RBAtkVtAINeOt0-24" value="最终光流" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="500" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ET6Ii6RBAtkVtAINeOt0-25" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="209.58" as="sourcePoint" />
+            <mxPoint x="480" y="209.58" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
