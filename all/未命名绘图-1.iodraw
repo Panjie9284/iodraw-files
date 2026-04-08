@@ -31,7 +31,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Mllr8WHPQDzDSk8AXF9w-0" value="&lt;div&gt;前组的特征&lt;/div&gt;F&lt;sub&gt;e&lt;/sub&gt;(t-1)" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="299.90999999999997" y="320" width="120" height="60" as="geometry" />
+          <mxGeometry x="269.99999999999994" y="320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GRiUfgNU-D0BLq3DBUHZ-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Mllr8WHPQDzDSk8AXF9w-2" target="GRiUfgNU-D0BLq3DBUHZ-0" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -63,7 +63,7 @@
         <mxCell id="GRiUfgNU-D0BLq3DBUHZ-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="GRiUfgNU-D0BLq3DBUHZ-4" target="GRiUfgNU-D0BLq3DBUHZ-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GRiUfgNU-D0BLq3DBUHZ-4" value="运动特征&lt;div&gt;motion_feature&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="GRiUfgNU-D0BLq3DBUHZ-4" value="" style="whiteSpace=wrap;html=1;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="299.90999999999997" y="580" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GRiUfgNU-D0BLq3DBUHZ-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="GRiUfgNU-D0BLq3DBUHZ-7" target="GRiUfgNU-D0BLq3DBUHZ-8" edge="1">
