@@ -15,7 +15,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tWwYl6sAvLtclhRLyYWx-0" value="事件体输入E" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="tWwYl6sAvLtclhRLyYWx-0" value="事件体输入E" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="40" y="80" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZMKGEbSbhJhfQjJGK9VY-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" target="ZMKGEbSbhJhfQjJGK9VY-2" edge="1">
@@ -51,7 +51,7 @@
         <mxCell id="ET6Ii6RBAtkVtAINeOt0-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ET6Ii6RBAtkVtAINeOt0-12" target="ET6Ii6RBAtkVtAINeOt0-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ET6Ii6RBAtkVtAINeOt0-12" value="事件体输入E" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="ET6Ii6RBAtkVtAINeOt0-12" value="事件体输入E" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="269.91" y="80" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ET6Ii6RBAtkVtAINeOt0-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ET6Ii6RBAtkVtAINeOt0-14">
@@ -88,6 +88,11 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="400" y="209.58" as="sourcePoint" />
             <mxPoint x="480" y="209.58" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ET6Ii6RBAtkVtAINeOt0-26" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ET6Ii6RBAtkVtAINeOt0-25">
+          <mxGeometry x="-0.0125" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
