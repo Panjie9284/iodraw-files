@@ -30,7 +30,7 @@
         <mxCell id="ET6Ii6RBAtkVtAINeOt0-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Mllr8WHPQDzDSk8AXF9w-0" target="Mllr8WHPQDzDSk8AXF9w-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ET6Ii6RBAtkVtAINeOt0-2" value="Event warping" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ET6Ii6RBAtkVtAINeOt0-1">
+        <mxCell id="ET6Ii6RBAtkVtAINeOt0-2" value="去模糊化" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ET6Ii6RBAtkVtAINeOt0-1">
           <mxGeometry x="0.0069" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -53,7 +53,7 @@
         <mxCell id="ET6Ii6RBAtkVtAINeOt0-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="GRiUfgNU-D0BLq3DBUHZ-3" target="GRiUfgNU-D0BLq3DBUHZ-0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ET6Ii6RBAtkVtAINeOt0-5" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ET6Ii6RBAtkVtAINeOt0-4">
+        <mxCell id="ET6Ii6RBAtkVtAINeOt0-5" value="叠加" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ET6Ii6RBAtkVtAINeOt0-4">
           <mxGeometry x="0.0918" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
