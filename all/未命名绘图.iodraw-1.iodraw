@@ -58,6 +58,21 @@
             <mxPoint x="40" y="160" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="8MLgs0G8Ho_6UO7pW3Hg-19" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="110" y="320" width="110" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="8MLgs0G8Ho_6UO7pW3Hg-20" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="120" y="330" width="110" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="8MLgs0G8Ho_6UO7pW3Hg-21" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="130" y="340" width="110" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="8MLgs0G8Ho_6UO7pW3Hg-22" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="140" y="350" width="110" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="8MLgs0G8Ho_6UO7pW3Hg-23" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="150" y="360" width="110" height="70" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
