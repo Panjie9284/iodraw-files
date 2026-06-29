@@ -40,6 +40,9 @@
         <mxCell id="_KyaSZGMf_4PNbbECCDG-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="_KyaSZGMf_4PNbbECCDG-10" target="_KyaSZGMf_4PNbbECCDG-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="_KyaSZGMf_4PNbbECCDG-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="_KyaSZGMf_4PNbbECCDG-10" target="_KyaSZGMf_4PNbbECCDG-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="_KyaSZGMf_4PNbbECCDG-10" value="&lt;div&gt;ball_mask&lt;/div&gt;x_center,y_center&lt;br&gt;r,confidence" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="150" y="380" width="120" height="60" as="geometry" />
         </mxCell>
@@ -58,7 +61,7 @@
           <mxGeometry x="150" y="560" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_KyaSZGMf_4PNbbECCDG-25" value="((ωx, ωy, ωz), uncertainty)" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="160" y="570" width="120" height="60" as="geometry" />
+          <mxGeometry x="15" y="630" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
